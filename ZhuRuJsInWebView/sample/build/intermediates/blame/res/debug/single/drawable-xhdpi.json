@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DownFile\\JsBridge\\ZhuRuJsInWebView\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\DownFile\\JsBridge\\ZhuRuJsInWebView\\sample\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DownFile\\safe-java-js-webview-bridge-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\DownFile\\safe-java-js-webview-bridge-master\\sample\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
